@@ -1,11 +1,11 @@
 {
   "name": "@arbnowfinance/v2-core",
   "description": " Core contracts for the ArbnowV2 protocol",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "homepage": "https://arbnow.finance",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arbnowfinance/arbnow-v2-core"
+    "url": "https://github.com/arbnowfinance/v2-core"
   },
   "keywords": [
     "arbnow",
