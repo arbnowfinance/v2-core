@@ -1,18 +1,18 @@
 {
-  "name": "@uniswap/v2-core",
-  "description": "🎛 Core contracts for the UniswapV2 protocol",
-  "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "name": "@arbnowfinance/v2-core",
+  "description": " Core contracts for the ArbnowV2 protocol",
+  "version": "1.0.2",
+  "homepage": "https://arbnow.finance",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/arbnowfinance/arbnow-v2-core"
   },
   "keywords": [
-    "uniswap",
+    "arbnow",
     "ethereum",
     "v2",
     "core",
-    "uniswap-v2"
+    "arbnow-v2"
   ],
   "files": [
     "contracts",
